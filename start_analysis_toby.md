@@ -37,3 +37,6 @@ head(cars)
 ```
 
 ![](start_analysis_toby_files/figure-markdown_github/unnamed-chunk-2-1.png)
+
+How do we upload sth in github
+==============================

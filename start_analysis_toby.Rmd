@@ -44,4 +44,9 @@ plot(cars)
 
 ```
 
+# How do we upload sth on github
 
+1 Save your current file (then you will see new Rmd and md file on your right)
+2 Press "commit" and then select the files that your have changed
+3 Write a commnt message, then press "Commit"
+4 After that, you "Push" your change to Github.
